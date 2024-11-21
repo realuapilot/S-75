@@ -1,4 +1,4 @@
-# Sam
+# Flightgear Remote Targeting Sam
 # You can control the sam's target list remotely
 Usefull if you want to use 10+ sams
 
