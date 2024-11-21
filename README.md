@@ -6,4 +6,4 @@ See Phoenix's Control center to go along with this sam
 
 # The control code to communicate with the tower is the Datalink code for the S-75
 
-S-75 by respetive owner(s)
+S-75 by respcetive owner(s)
